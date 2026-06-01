@@ -1,4 +1,5 @@
 # Modelos estadísticos clásicos y de Deep Learning para proyección de ventas diarias
+Irving Gael Robles Ventura
 
 El entorno competitivo actual en el sector comercial exige que las organizaciones adopten enfoques analíticos avanzados
 para optimizar la toma de decisiones estratégicas, particularmente en la gestión de inventarios y la planificación financiera.
