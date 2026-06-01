@@ -256,7 +256,7 @@ El flujo de configuración te pedirá lo siguiente:
 * Exportación de Resultados.
     * Tras evaluar el modelo y generar la predicción, el sistema te mostrará el volumen total pronosticado y te pedirá un nombre para guardar el archivo de salida `.csv` dentro del directorio de pronósticos.
 
-#### Ejemplo de una sesión en la terminal
+#### Ejemplo de una sesión en la terminal.
 
 A continuación se muestra un ejemplo real de cómo se visualiza la interacción en la consola al correr el script. En este caso, el usuario elige el modo local, excluye la ruta 90, usa las variables por defecto y pronostica un mes de ventas:
 
